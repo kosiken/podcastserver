@@ -1,0 +1,112 @@
+[
+    {
+        "rss": "https://anchor.fm/s/305866fc/podcast/rss",
+        "description_original": "If you want to grow daily and be a better person and improve the quality of your relationships with others, then this podcast is for you.Press play!",
+        "title_original": "Being Better With Aiffy",
+        "publisher_original": "Ifejesu Adewunmi",
+        "image": "http://localhost:8080/public/images/being-better-with-aiffy.jpg",
+        "id": "h078ht40",
+        "total_episodes": 3,
+        "explicit_content": false
+    },
+    {
+        "rss": "https://feeds.megaphone.fm/clubshayshay",
+        "description_original": "Each week Shannon Sharpe—3x Super Bowl champion, member of the Pro Football Hall of Fame and co-host of Undisputed on FS1—sits down with athletes, celebrities and influencers to break down, analyze and discuss the latest headlines in sports, pop culture and everything in-between. ",
+        "title_original": "Club Shay Shay",
+        "publisher_original": "FOX Sports",
+        "image": "http://localhost:8080/public/images/club-shay-shay.jpg",
+        "id": "h078ht48",
+        "total_episodes": 24,
+        "explicit_content": true
+    },
+    {
+        "rss": "http://feeds.feedburner.com/SkipandShannonUndisputed",
+        "description_original": "The Skip and Shannon: Undisputed Podcast. Skip Bayless, Shannon Sharpe, and Jenny Taft discuss the biggest stories in the world of sports. It's unscripted and unfiltered. Don't miss the television show Monday-Friday at 9:30am ET on FS1.",
+        "title_original": "Skip and Shannon: Undisputed",
+        "publisher_original": "FOX Sports",
+        "image": "http://localhost:8080/public/images/skip-and-shannon-undisputed.png",
+        "id": "h078ht49",
+        "total_episodes": 200,
+        "explicit_content": true
+    },
+    {
+        "rss": "https://feeds.megaphone.fm/the-bill-simmons-podcast",
+        "description_original": "HBO and The Ringer's Bill Simmons hosts the most downloaded sports podcast of all time, with a rotating crew of celebrities, athletes, and media staples, as well as mainstays like Cousin Sal, Joe House, and a slew of other friends and family members who always happen to be suspiciously available.",
+        "title_original": "The Bill Simmons Podcast",
+        "publisher_original": "The Ringer & Bill Simmons",
+        "image": "http://localhost:8080/public/images/the-bill-simmons-podcast.jpg",
+        "id": "h078ht410",
+        "total_episodes": 780,
+        "explicit_content": true
+    },
+    {
+        "rss": "https://audioboom.com/channels/4903282.rss",
+        "description_original": "The Premier Skills English podcast is a part of a project from the British Council and Premier League for people who are learning English and love football. If you want to know more visit the website https://britishcouncil.org/premierskillsenglish, or get in touch at premierskills@britishcouncil.org.",
+        "title_original": "Learn English with the British Council and Premier League",
+        "publisher_original": "Jack Radford & Rich Moon",
+        "image": "http://localhost:8080/public/images/learn-english-with-the-british-council-and-premier-league.png",
+        "id": "h078ht41",
+        "total_episodes": 400,
+        "explicit_content": true
+    },
+    {
+        "rss": "https://podcasts.files.bbci.co.uk/p02nrsln.rss",
+        "description_original": "The latest from the Premier League, EFL, European football and more!",
+        "title_original": "Football Daily",
+        "publisher_original": "Football Daily",
+        "image": "http://localhost:8080/public/images/football-daily.jpg",
+        "id": "h078ht42",
+        "total_episodes": 81,
+        "explicit_content": true
+    },
+    {
+        "rss": "http://feeds.feedburner.com/GamingIlluminaughtyPodcast",
+        "description_original": "The Gaming illuminaughty is a collection of longtime friends joining forces to discuss gaming & geek culture with honesty & humor. ",
+        "title_original": "Gaming illuminaughty",
+        "publisher_original": "Gaming illuminaughty",
+        "image": "http://localhost:8080/public/images/gaming-illuminaughty.jpg",
+        "id": "h078ht43",
+        "total_episodes": 112,
+        "explicit_content": true
+    },
+    {
+        "rss": "https://feeds.megaphone.fm/frontlinegaming",
+        "description_original": "This is the main feed for the entire Frontline Gaming Network lineup of podcasts. Subscribe to never miss an episode of Signals from the Frontline, Chapter Tactics, 40k Stats Centre or Art of War! New episodes weekly, covering every aspect of Warhammer 40,000 and competitive play.",
+        "title_original": "Frontline Gaming Network",
+        "publisher_original": "Frontline Gaming",
+        "image": "http://localhost:8080/public/images/frontline-gaming-network.jpg",
+        "id": "h078ht44",
+        "total_episodes": 749,
+        "explicit_content": true
+    },
+    {
+        "rss": "https://multiplayerpodcast.libsyn.com/rss",
+        "description_original": "Gaming podcasts are generally loud and obnoxious or boring and mundane -- until now.  Multiplayer Podcast is a life-changing gaming podcast from a small group of friends who have loud opinions. We aren’t experts but you bet we will act like them.  Join us as we break down our own world of video games, share some laughs, share our experiences, rank our favorites, and help inform you as you search for the next great game.  (...and what to stay away from).   A weekly gaming podcast you can make part of your routine.Come check out our website and Leaderboard rankings at multiplayerpodcast.com and reach out to us on Twitter @multiplayerpod and Instagram @multiplayerpodcast.",
+        "title_original": "Multiplayer Gaming Podcast",
+        "publisher_original": "Gaming",
+        "image": "http://localhost:8080/public/images/multiplayer-gaming-podcast.jpg",
+        "id": "h078ht45",
+        "total_episodes": 99,
+        "explicit_content": true
+    },
+    {
+        "rss": "https://feeds.megaphone.fm/insidegamingpodcast",
+        "description_original": "Welcome to the Inside Gaming Podcast. We’ve got a weekly rundown of gaming news here brought to you by Brian Gaar and a rotating cast of youths, aka the other IG hosts, but wait - it’s not just news! NANI?? We’ll be riffing and ranting and the last 10 minutes of the show are dedicated specifically to answering your questions. News related? Personal? WHO CARES BABY it’s the Inside Gaming Podcast!",
+        "title_original": "Inside Gaming Podcast",
+        "publisher_original": "Rooster Teeth",
+        "image": "http://localhost:8080/public/images/inside-gaming-podcast.png",
+        "id": "h078ht46",
+        "total_episodes": 46,
+        "explicit_content": true
+    },
+    {
+        "rss": "http://feeds.feedburner.com/AndroidPolicePodcast",
+        "description_original": "Podcast by Android Police",
+        "title_original": "Android Police Podcast",
+        "publisher_original": "Android Police",
+        "image": "http://localhost:8080/public/images/android-police-podcast.jpg",
+        "id": "h078ht47",
+        "total_episodes": 4,
+        "explicit_content": true
+    }
+]
