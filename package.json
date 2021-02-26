@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "PORT=8080 ts-node app.ts",
-    "serve": "PORT=8080 ts-node app.ts"
+    "serve": "ts-node app.ts"
   },
   "devDependencies": {
     "ts-node": "^9.1.1"
