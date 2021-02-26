@@ -6,7 +6,7 @@ import { Podcast, PlayerAudio } from "./cast";
 import Parser from 'rss-parser';
 import { type } from "os";
 
-let pf = path.join(__dirname, 'podcasts.json')
+let pf = path.join(__dirname, 'podcasts2.json')
 
 const parser = new Parser();
 
